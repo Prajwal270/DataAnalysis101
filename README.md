@@ -1,4 +1,4 @@
-# DataAnalysis11
+# DataAnalysis101
 
 This repository contains the analysis done on the movies dataset present on the grouplens website, using the library pandas, numpy, matplotlib, etc.
 
