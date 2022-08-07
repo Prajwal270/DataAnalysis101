@@ -23,7 +23,7 @@ Clone the project using the link :
 
 ```bash
 https://github.com/Prajwal270/DataAnalysis101.git
-
+```
 ## Required Packages
 
 - Python 3.2 or highter
